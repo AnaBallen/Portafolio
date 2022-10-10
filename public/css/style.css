@@ -1,0 +1,12 @@
+body{
+    background-color:white;
+}
+
+li a:hover{
+    background-color: rgb(201, 201, 201);
+    padding: 15px 20px;
+}
+.logo{
+    float: left;
+    width: 8%;
+}
